@@ -1,7 +1,7 @@
 <h1 align="left" id="jdbohrman-title">:wave: Hello! I'm James Bohrman</h1>
 <h3 align="left">I am a Developer Advocate and Cloud-native engineer</h3>
 
-- :office: &nbsp;I'm currently the founder of at **Cloudspeakers**
+- :office: &nbsp;I'm currently the founder of at **[Cloudspeakers]**
 - :writing_hand: &nbsp;I have a strong passion for writing **[content]**
 - :speech_balloon: &nbsp;I like to talk about **edge computing** and **IoT**
 - Join my **[Community]**
@@ -19,13 +19,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg,png" width="48" height="48" alt="Kubernetes" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -197,15 +197,10 @@
 - [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
 <!-- BLOG-POST-LIST:END -->
 
-
+[Cloudspeakers]: https://cloudspeakers.dev
 [linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
 [twitter]: https://twitter.com/SuhailKakar "Twitter"
 [content]: https://airtable.com/shrAYlWt2g4MUIw7a "Blog"
 [community]: https://cultofyaml.cloudspeakers.dev
-
-
-
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
-
 
 
