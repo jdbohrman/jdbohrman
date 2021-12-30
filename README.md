@@ -138,7 +138,7 @@
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://cncf-branding.netlify.app/projects/opa/" width="48" height="48" alt="Open Policy Agent" />
+        <img src="https://cncf-branding.netlify.app/img/projects/opa/icon/color/opa-icon-color.svg" width="48" height="48" alt="Open Policy Agent" />
       </a>
       <br>Open Policy Agent
     </td>
@@ -150,37 +150,37 @@
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://cncf-branding.netlify.app/projects/keda/" width="48" height="48" alt="KEDA" />
+        <img src="https://cncf-branding.netlify.app/img/projects/keda/icon/color/keda-icon-color.svg" width="48" height="48" alt="KEDA" />
       </a>
       <br>KEDA
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://cncf-branding.netlify.app/projects/in-toto/" width="48" height="48" alt="In-toto" />
+        <img src="https://cncf-branding.netlify.app/img/projects/in-toto/horizontal/color/in-toto-horizontal-color.svg" width="48" height="48" alt="In-toto" />
       </a>
       <br>In-toto
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://cncf-branding.netlify.app/projects/kubeedge/" width="48" height="48" alt="KubeEdge" />
+        <img src="https://cncf-branding.netlify.app/img/projects/kubeedge/stacked/color/kubeedge-stacked-color.svg" width="48" height="48" alt="KubeEdge" />
       </a>
       <br>KubeEdge
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="" width="48" height="48" alt="Redux" />
+        <img src="https://cncf-branding.netlify.app/img/projects/spire/horizontal/color/spire-horizontal-color.svg" width="48" height="48" alt="SPIRE" />
       </a>
-      <br>Redux
+      <br>SPIRE
     </td>
           <td align="center" width="96"> 
       <a href="#jdbohrman-tech" >
-        <img src="https://cncf-branding.netlify.app/projects/thanos/" width="48" height="48" alt="Thanos" />
+        <img src="https://cncf-branding.netlify.app/img/projects/thanos/stacked/color/thanos-stacked-color.svg/" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
     </td>
              <td align="center" width="96"> 
       <a href="#jdbohrman-tech" >
-        <img src="https://cncf-branding.netlify.app/projects/spiffe/" width="48" height="48" alt="SPIFFE" />
+        <img src="https://cncf-branding.netlify.app/img/projects/spiffe/horizontal/color/spiffe-horizontal-color.svg" width="48" height="48" alt="SPIFFE" />
       </a>
       <br>SPIFFE
     </td>
