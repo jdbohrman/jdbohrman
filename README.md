@@ -67,24 +67,24 @@
     </td>
      <td align="center" width="96"> 
       <a href="#jdbohrman-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="48" height="48" alt="Swagger" />
+        <img src="https://cncf-branding.netlify.app/img/projects/jaeger/icon/color/jaeger-icon-color.svg" width="48" height="48" alt="Argo" />
       </a>
-      <br>Swagger
+      <br>Argo
     </td>
   </tr>
   
   <tr>
     <td align="center" width="96"> 
       <a href="#jdbohrman-tech" >
-        <img src="https://redis.io/images/redis-logo.svg" width="48" height="48" alt="Redis" />
+        <img src="https://cncf-branding.netlify.app/img/projects/falco/stacked/color/falco-stacked-color.svg" width="48" height="48" alt="Falco" />
       </a>
-      <br>Redis
+      <br>Falco
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" width="48" height="48" alt="Helm" />
       </a>
-      <br>Linux
+      <br>Helm
     </td>
     <td align="center"  width="96">
       <a href="#jdbohrman-tech">
@@ -131,58 +131,58 @@
   </tr>
    <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>TailWind
+      <br>Prometheus
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/projects/opa/" width="48" height="48" alt="Open Policy Agent" />
       </a>
-      <br>Bash
+      <br>Open Policy Agent
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/img/projects/dex/horizontal/color/dex-horizontal-color.svg" width="45" height="45" alt="Dex" />
       </a>
-      <br>Figma
+      <br>Dex
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/projects/keda/" width="48" height="48" alt="KEDA" />
       </a>
-      <br>Tensorflow
+      <br>KEDA
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/projects/in-toto/" width="48" height="48" alt="In-toto" />
       </a>
-      <br>Material ui
+      <br>In-toto
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      <a href="#jdbohrman-tech">
+        <img src="https://cncf-branding.netlify.app/projects/kubeedge/" width="48" height="48" alt="KubeEdge" />
       </a>
-      <br>Flask
+      <br>KubeEdge
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+        <img src="" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
           <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      <a href="#jdbohrman-tech" >
+        <img src="https://cncf-branding.netlify.app/projects/thanos/" width="48" height="48" alt="Thanos" />
       </a>
-      <br>Next JS
+      <br>Thanos
     </td>
              <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
+      <a href="#jdbohrman-tech" >
+        <img src="https://cncf-branding.netlify.app/projects/spiffe/" width="48" height="48" alt="SPIFFE" />
       </a>
-      <br>G Cloud
+      <br>SPIFFE
     </td>
   </tr>
     
