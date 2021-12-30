@@ -4,7 +4,7 @@
 - :office: &nbsp;I'm currently the founder of at **[Cloudspeakers]**
 - :writing_hand: &nbsp;I have a strong passion for writing **[content]**
 - :speech_balloon: &nbsp;I like to talk about **edge computing** and **IoT**
-- Join my **[Community]**
+- 🙌 Join my **[Community]**!
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more on **[Twitter]**
 
