@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width="48" height="48" alt="Golang" />
+        <img src="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Golang
     </td>
