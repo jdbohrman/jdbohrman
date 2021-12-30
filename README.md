@@ -190,16 +190,16 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Custom Networks To MetaMask](https://blog.suhailkakar.com/add-custom-networks-to-metamask)
-- [Web 3.0 Terms and Their Definitions in Plain English](https://blog.suhailkakar.com/web-30-terms-and-their-definitions-in-plain-english)
-- [How To Solve Captcha in JavaScript Using 2Captcha](https://blog.suhailkakar.com/how-to-solve-captcha-in-javascript-using-2captcha)
-- [What Are DApps: A Complete Guide To Decentralized Applications](https://blog.suhailkakar.com/what-are-dapps-a-complete-guide-to-decentralized-applications)
-- [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
+- [How event-driven architecture enables horizontally scaling systems](https://blog.zeet.co/how-event-driven-architecture-enables-horizontally-scaling-systems/)
+- It’s time to say “Ok, Boomer!” to old school change management](https://www.merkely.com/blog/it-s-time-to-say-ok-boomer-to-old-school-change-management/)
+- [Unpacking the CNCF Software Supply Chain Security Best Practices Whitepaper](https://boxboat.com/2021/08/03/software-supply-chain-security-best-practices-paper/)
+- [Mattermost Recipe: Leveraging the Kubernetes Operator to deploy our Community Server](https://mattermost.com/blog/mattermost-recipe-leveraging-kubernetes-operator-to-deploy-our-community-server/)
+- [What is fractional thought leadership?](https://blog.cloudspeakers.dev/what-is-fractional-thought-leadership-/)
 <!-- BLOG-POST-LIST:END -->
 
 [Cloudspeakers]: https://cloudspeakers.dev
-[linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
-[twitter]: https://twitter.com/SuhailKakar "Twitter"
+[linkedin]: https://www.linkedin.com/in/jdbohrman "LinkedIn"
+[twitter]: https://twitter.com/james_bohrman "Twitter"
 [content]: https://airtable.com/shrAYlWt2g4MUIw7a "Blog"
 [community]: https://cultofyaml.cloudspeakers.dev
 
