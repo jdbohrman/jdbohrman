@@ -30,38 +30,38 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" />
       </a>
-      <br>Django
+      <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
       </a>
-      <br>Azure
+      <br>WebAssembly
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google-cloud-platform-v2.svg" width="48" height="48" alt="Google Cloud" />
       </a>
-      <br>TypeScript
+      <br>Google Cloud
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>React JS
+      <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="48" height="48" alt="VueJS" />
       </a>
-      <br>Bootstrap
+      <br>Vue JS
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      <a href="#jdbohrman-tech">
+        <img src="https://www.logolynx.com/images/logolynx/f9/f9f8a10fa731a53e0ac5ecf127d31909.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
