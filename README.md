@@ -106,27 +106,27 @@
     </td>
     <td align="center"  width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://dbdb.io/media/logos/fauna2020.png.280x250_q85.png" width="48" height="48" alt="WordPress" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/300px-Amazon_Lambda_architecture_logo.svg.png" width="48" height="48" alt="Lambda" />
       </a>
-      <br>Fauna
+      <br>Lambda
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#jdbohrman-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#jdbohrman-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <a href="#jdbohrman-tech" >
+        <img src="https://k3s.io/images/logo-k3s.svg" width="48" height="48" alt="k3s" />
       </a>
-      <br>PHP
+      <br>k3s
     </td>
   </tr>
    <tr>
