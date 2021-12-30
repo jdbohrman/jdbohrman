@@ -61,54 +61,54 @@
     </td>
     <td align="center" width="96">
       <a href="#jdbohrman-tech">
-        <img src="https://www.logolynx.com/images/logolynx/f9/f9f8a10fa731a53e0ac5ecf127d31909.png" width="48" height="48" alt="Node JS" />
+        <img src="https://commons.wikimedia.org/wiki/Category:Go_logos#/media/File:Go_Logo_Blue.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Node JS
+      <br>Golang
     </td>
      <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      <a href="#jdbohrman-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="48" height="48" alt="Swagger" />
       </a>
-      <br>MongoDB
+      <br>Swagger
     </td>
   </tr>
   
   <tr>
     <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      <a href="#jdbohrman-tech" >
+        <img src="https://redis.io/images/redis-logo.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br>C Lang
+      <br>Redis
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#jdbohrman-tech" >
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_of_Hugo_the_static_website_generator.svg" width="48" height="48" alt="Hugo" />
       </a>
-      <br>Gatsby
+      <br>Hugo
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+      <a href="#jdbohrman-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="48" height="48" alt="Ionic" />
       </a>
-      <br>Electron
+      <br>Ionic
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#jdbohrman-tech">
         <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
+      <a href="#jdbohrman-tech">
+        <img src="https://dbdb.io/media/logos/fauna2020.png.280x250_q85.png" width="48" height="48" alt="WordPress" />
       </a>
-      <br>WordPress
+      <br>Fauna
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
