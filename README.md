@@ -201,6 +201,6 @@
 [linkedin]: https://www.linkedin.com/in/jdbohrman "LinkedIn"
 [twitter]: https://twitter.com/james_bohrman "Twitter"
 [content]: https://airtable.com/shrAYlWt2g4MUIw7a "Blog"
-[community]: https://cultofyaml.cloudspeakers.dev
+[community]: https://discord.gg/63mmGJ9Ymr
 
 
