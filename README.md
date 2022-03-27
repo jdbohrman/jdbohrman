@@ -1,7 +1,7 @@
 <h1 align="left" id="jdbohrman-title">:wave: Hello! I'm James Bohrman</h1>
 <h3 align="left">I am a Developer Advocate and Cloud-native engineer</h3>
 
-- :office: &nbsp;I'm currently the founder of at **[Cloudspeakers]**
+- :office: &nbsp;I'm currently a Developer Advocate at **[Fermyon]**
 - :writing_hand: &nbsp;I have a strong passion for writing **[content]**
 - :speech_balloon: &nbsp;I like to talk about **edge computing** and **IoT**
 - 🙌 Join my **[Community]**!
@@ -197,7 +197,7 @@
 - [What is fractional thought leadership?](https://blog.cloudspeakers.dev/what-is-fractional-thought-leadership-/)
 <!-- BLOG-POST-LIST:END -->
 
-[Cloudspeakers]: https://cloudspeakers.dev
+[Fermyon]: https://www.fermyon.com
 [linkedin]: https://www.linkedin.com/in/jdbohrman "LinkedIn"
 [twitter]: https://twitter.com/james_bohrman "Twitter"
 [content]: https://airtable.com/shrAYlWt2g4MUIw7a "Blog"
