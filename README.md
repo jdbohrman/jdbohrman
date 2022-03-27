@@ -191,7 +191,7 @@
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [How event-driven architecture enables horizontally scaling systems](https://blog.zeet.co/how-event-driven-architecture-enables-horizontally-scaling-systems/)
-- It’s time to say “Ok, Boomer!” to old school change management](https://www.merkely.com/blog/it-s-time-to-say-ok-boomer-to-old-school-change-management/)
+- [It’s time to say “Ok, Boomer!” to old school change management](https://www.merkely.com/blog/it-s-time-to-say-ok-boomer-to-old-school-change-management/)
 - [Unpacking the CNCF Software Supply Chain Security Best Practices Whitepaper](https://boxboat.com/2021/08/03/software-supply-chain-security-best-practices-paper/)
 - [Mattermost Recipe: Leveraging the Kubernetes Operator to deploy our Community Server](https://mattermost.com/blog/mattermost-recipe-leveraging-kubernetes-operator-to-deploy-our-community-server/)
 - [What is fractional thought leadership?](https://blog.cloudspeakers.dev/what-is-fractional-thought-leadership-/)
