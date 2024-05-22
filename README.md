@@ -1,6 +1,6 @@
 # Hey there, I'm James 🏝️👋
 
-<img src="" alt="banner that Your marketing tech sherpa">
+<img src="./martechsherpa.png" alt="banner that Your marketing tech sherpa">
 I'm a Marketing Ops manager and analytics engineer who is currently leading a quarterly advisory that helps companies Automate, Attribute, and Amplify their core MarketingOps stack. I am insanely addicted to discovering and applying new mad science data projects that can help both myself and my clients get a more holistic view into their business ecosystem. My current focus is a mix of working with first-party analytics and LLM-led customer experience management. 
 
 
