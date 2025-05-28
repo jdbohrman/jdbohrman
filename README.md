@@ -1,7 +1,8 @@
 # Hey there, I'm James 👋
 
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+<p align="center"><i>
+“The state calls its own violence law, but that of the individual, crime.”</i></p>
+<p align="center"><i>- Max Stirner -</i></p>
 
 <img src="./banner.png" alt="Portcullis Banner">
 I'm a full-stack solutions engineer that loves building all kinds of wild experiments and projects in my free time, and helping clients solve complex technical challenges the rest of the time. I have experience with a huge range of tech and skillsets included but not limited to:
