@@ -21,7 +21,7 @@ I'm a full-stack solutions engineer that loves building all kinds of wild experi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-## Find me around the web 🌎: <a href="https://www.runportcullis.co"><img align="left" width="150" height="150" src="https://img.logo.dev/runportcullis.co?token=pk_AX6mV41DR6SElOfHFwkQdA&retina=true"></a>
+## Find me around the web 🌎: 
 - Chat with me <a href="https://cal.com/jbohrman/30-min">intro call</a> 📆
 - View my projects <a href="https://github.com/orgs/jdbohrman-tech/repositories">on Github</a> ⚙️
 - Find me on <a href="https://www.linkedin.com/in/jdbohrman/">LinkedIn</a> 💼
