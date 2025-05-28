@@ -1,10 +1,27 @@
 # Hey there, I'm James 👋
 
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
 <img src="./banner.png" alt="Portcullis Banner">
-I'm the Founder and CEO of Portcullis, the Clickhouse solution studio for petabyte-scale ideas. I love solving problems and helping both our clients and the greater Clickhouse ecosystem build solutions that move data as fast and reliably as possible. We're a team of builders and solvers, so when we aren't doing client work, we're working on various projects on the Clickhouse ecosystem. 
+I'm a full-stack solutions engineer that loves building all kinds of wild experiments and projects in my free time, and helping clients solve complex technical challenges the rest of the time. I have experience with a huge range of tech and skillsets included but not limited to:
+
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
+![React](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![PostgresSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
 ## Find me around the web 🌎: <a href="https://www.runportcullis.co"><img align="left" width="150" height="150" src="https://img.logo.dev/runportcullis.co?token=pk_AX6mV41DR6SElOfHFwkQdA&retina=true"></a>
-- Schedule a Portcullis <a href="https://cal.com/team/portcullis/intro-call">intro call</a> 📆
-- View my writing on the <a href="https://www.runportcullis.co/blog">Portcullis Blog</a> ⚙️
+- Chat with me <a href="https://cal.com/jbohrman/30-min">intro call</a> 📆
+- View my projects <a href="https://github.com/orgs/jdbohrman-tech/repositories">on Github</a> ⚙️
 - Find me on <a href="https://www.linkedin.com/in/jdbohrman/">LinkedIn</a> 💼
